@@ -63,6 +63,7 @@ namespace DungeonExplorer
                 default:
                     Console.WriteLine("Error!Make sure to enter a valid choice");
                     break;
+
             }
         }
     }
